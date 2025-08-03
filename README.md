@@ -61,3 +61,13 @@ Note: This dashboard is view-only and does not require any installation or crede
 
 <img width="1541" height="875" alt="Healthcare Dashboard Specialization Focus Page" src="https://github.com/user-attachments/assets/2c233874-79a7-4ff9-a8cb-35dcff0aa805" />
 
+
+## **📌 Key Insights & Conclusion**
+
+This dashboard provides a data-driven overview of patient care and operational patterns in a healthcare setting. Some of the key insights include:
+
+High patient satisfaction scores across most departments, with notable variation by specialization.
+Readmission causes are primarily linked to chronic condition flare-ups and non-compliance with medication.
+Mortality rates are low, with only a few cases marked as deceased.
+Payer distribution shows a balanced mix of Medicare, Medicaid, Private, and Self-payers.
+Specialization trends reveal that certain departments (e.g., Orthopedics, Psychiatry) have higher readmission rates.
