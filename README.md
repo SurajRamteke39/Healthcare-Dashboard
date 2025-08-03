@@ -41,7 +41,7 @@ The analysis is based on a synthetic dataset created for analytical purposes. Th
 
 ## **🚀 Getting Started**
 
-This project is designed for viewing and exploring insights through an interactive Power BI dashboard. No setup or installation is required.
+This project is designed for viewing and exploring insights through an interactive Power BI dashboard.
 
 To get started:
 Click the link below to open the dashboard in your browser.
@@ -49,6 +49,9 @@ Use the filters and visuals to explore patient data, readmission trends, and mor
 
 You can explore the live dashboard here:
 👉 - <a href="https://app.powerbi.com/view?r=eyJrIjoiMDUyNjhmMWQtZDI2MS00ZmM2LWI3M2EtOWNiN2Y3MzA4YWFhIiwidCI6ImFjNDUxYzMzLWU4MGYtNDQwYi1hOTk2LTE0MjJkMzcwY2U2ZSJ9"> Healthcare Dashboard</a>
+
+Note: This dashboard is view-only and does not require any installation or credentials.
+
 
 ## **🖼️ Screenshots**
 
