@@ -22,7 +22,7 @@ The analysis is based on a synthetic dataset created for analytical purposes. Th
 - Payer information
 
 
-## **🛠️ Tools Used**
+## **🛠️ Technologies/Tools Used**
 
 - Microsoft Power BI
 - Microsft Excel
@@ -39,11 +39,16 @@ The analysis is based on a synthetic dataset created for analytical purposes. Th
 - Specialization-wise performance metrics
 
 
-## **🔗 Live Dashboard**
+## **🚀 Getting Started**
+
+This project is designed for viewing and exploring insights through an interactive Power BI dashboard. No setup or installation is required.
+
+To get started:
+Click the link below to open the dashboard in your browser.
+Use the filters and visuals to explore patient data, readmission trends, and more.
 
 You can explore the live dashboard here:
 👉 - <a href="https://app.powerbi.com/view?r=eyJrIjoiMDUyNjhmMWQtZDI2MS00ZmM2LWI3M2EtOWNiN2Y3MzA4YWFhIiwidCI6ImFjNDUxYzMzLWU4MGYtNDQwYi1hOTk2LTE0MjJkMzcwY2U2ZSJ9"> Healthcare Dashboard</a>
-
 
 ## **🖼️ Screenshots**
 
