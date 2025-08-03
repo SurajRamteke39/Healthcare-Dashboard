@@ -22,7 +22,7 @@ The analysis is based on a synthetic dataset created for analytical purposes. Th
 - Payer information
 
 
-## **🛠️ Technologies/Tools Used**
+## **🛠️ Technologies Used**
 
 - Microsoft Power BI
 - Microsft Excel
