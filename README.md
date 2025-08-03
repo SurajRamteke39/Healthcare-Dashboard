@@ -47,10 +47,9 @@ You can explore the live dashboard here:
 
 ## **🖼️ Screenshots**
 
-- <img width="1623" height="907" alt="Healthcare Dashboard Home Page" src="https://github.com/user-attachments/assets/42632aca-0b97-4a89-aca8-77e506a836bf" />
+<img width="1623" height="907" alt="Healthcare Dashboard Home Page" src="https://github.com/user-attachments/assets/aca8fd9e-d201-4b48-83fa-b390dbc3e82a" />
 
-- <img width="1637" height="928" alt="Healthcare Dashboard Admission Overview Page" src="https://github.com/user-attachments/assets/86f2da94-aabf-4617-8932-31346912d212" />
+<img width="1637" height="928" alt="Healthcare Dashboard Admission Overview Page" src="https://github.com/user-attachments/assets/3d1e8a47-27b1-4d33-a036-6dd4bbcbf91a" />
 
-- <img width="1541" height="875" alt="Healthcare Dashboard Specialization Focus Page" src="https://github.com/user-attachments/assets/80ef5d39-7466-48e2-b38f-37a46aec21b4" />
-
+<img width="1541" height="875" alt="Healthcare Dashboard Specialization Focus Page" src="https://github.com/user-attachments/assets/2c233874-79a7-4ff9-a8cb-35dcff0aa805" />
 
